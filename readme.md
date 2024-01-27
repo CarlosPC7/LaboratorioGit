@@ -13,4 +13,4 @@ Para subir de primeras la carpeta local a la nube y github lo entienda, usamos g
 Visualizamos que lo hemos realizado correctamente y ya está subido en GitHub
 # Paso 3 Hacer un commit y un push
 Creo los archivos texto fichero 1 y fichero 2
- 
+Lo añadimos al staging, comiteamos y los subimos a GitHub
