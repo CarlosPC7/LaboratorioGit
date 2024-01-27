@@ -14,7 +14,7 @@ Visualizamos que lo hemos realizado correctamente y ya está subido en GitHub
 # Paso 3 Hacer un commit y un push
 Creo los archivos texto fichero 1 y fichero 2
 Lo añadimos al staging, comiteamos y los subimos a GitHub
-# Paso 4 Crear una rana
+# Paso 4 Crear una rama
 Creanos la rama development y nos metemos en ella
 Dentro de la rama development, creamos los ficheros 3 y 4, y modificamos el fichero 1 y 2
 Hacemos commit y los subimos a GitHub
