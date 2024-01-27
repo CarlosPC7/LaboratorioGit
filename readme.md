@@ -18,3 +18,6 @@ Lo añadimos al staging, comiteamos y los subimos a GitHub
 Creanos la rama development y nos metemos en ella
 Dentro de la rama development, creamos los ficheros 3 y 4, y modificamos el fichero 1 y 2
 Hacemos commit y los subimos a GitHub
+# Paso 5 Hacer un merge
+Volvemos a la rama master
+Realizamos un merge de la rama development
