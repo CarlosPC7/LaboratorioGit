@@ -11,3 +11,6 @@ Copiamos la url SSH
 Realizamos conexión de local y nube con git remote add origin
 Para subir de primeras la carpeta local a la nube y github lo entienda, usamos git push --sep-upstream
 Visualizamos que lo hemos realizado correctamente y ya está subido en GitHub
+# Paso 3 Hacer un commit y un push
+Creo los archivos texto fichero 1 y fichero 2
+ 
