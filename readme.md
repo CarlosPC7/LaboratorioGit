@@ -5,3 +5,10 @@ Realizamos npm install y npm start
 Creamos archivo .gitignore
 Aplicamos git init y git status y nos damos cuenta que debemos añadirlos al stagging
 Para ello, git add. y git commit -m "Hola Laboratorio Git"
+-----
+# Paso 2 Subir repositorio a Github
+Creamos repositorio en Github, público y sin archivo readme.md
+Copiamos la url SSH
+Realizamos conexión de local y nube con git remote add origin
+Para subir de primeras la carpeta local a la nube y github lo entienda, usamos git push --sep-upstream
+Visualizamos que lo hemos realizado correctamente y ya está subido en GitHub
