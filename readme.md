@@ -21,3 +21,6 @@ Hacemos commit y los subimos a GitHub
 # Paso 5 Hacer un merge
 Volvemos a la rama master
 Realizamos un merge de la rama development
+Aceptamos los cambios actuales del readme.md de la rama master
+Duda, ¿Porque me ha autoaceptado los ficheros, tanto 3 y 4, como las modificaciones del fichero 1 y 2, que hice en la rama development, al pasarlo a la rama master con merge? Solo me ha preguntado por el readme.md
+Lo subimos a GitHub desde rama master
